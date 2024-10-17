@@ -1,4 +1,4 @@
-[[# EX3 Implementation-of-Linear-Regression-Using-Gradient-Descent
+# EX3 Implementation-of-Linear-Regression-Using-Gradient-Descent
 ## DATE:
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
@@ -57,4 +57,3 @@ print(f"predicted value: {pre}")
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
-](https://github.com/dineshglb/Ex1-Implementation-of-Univariate-Linear-Regression-to-fit-a-straight-line-using-least-squares..git)](https://github.com/dineshglb/Ex1-Implementation-of-Univariate-Linear-Regression-to-fit-a-straight-line-using-least-squares..git)
