@@ -23,8 +23,6 @@ Program to implement the linear regression using gradient descent.
 Developed by: K ADHITHYA
 RegisterNumber: 2305002001
 
-```
-```
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
